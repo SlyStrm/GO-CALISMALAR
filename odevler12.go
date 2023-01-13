@@ -4,26 +4,26 @@ import "fmt"
 
 func main() {
 
-	var girilensayilar []int
+	var girilenSayilar []int
 
-	for i := 1; i <= 10; i++ { //for i := 1; i <= n; i++ değişken "n" ise istenilecek n kadar sayı girilebilir
-		var girilensayi int
+	for i := 1; i <= 10; i++ {
+		var girilenSayi int
 
 		fmt.Print("değerleri girin")
 
-		fmt.Scan(&girilensayi)
+		fmt.Scan(&girilenSayi)
 
-		if girilensayi > 10000000 {
+		if girilenSayi > 10000000 {
 			break
 		}
 
-		girilensayilar = append(girilensayilar, girilensayi)
+		girilenSayilar = append(girilenSayilar, girilenSayi)
 
 	}
 
-	girilenToplamSayiAdedi := boyut(girilensayilar)
-	girilenEnBuyukSayi := enbuyuksayi(girilensayilar)
-	girilenEnKucukSayi := enkucuksayi(girilensayilar)
+	girilenToplamSayiAdedi := boyut(girilenSayilar)
+	girilenEnBuyukSayi := enbuyuksayi(girilenSayilar)
+	girilenEnKucukSayi := enkucuksayi(girilenSayilar)
 	fmt.Printf("\ngirilen toplam sayı adeti = %d", girilenToplamSayiAdedi)
 	fmt.Printf("\ngirilen en büyük sayı = %d", girilenEnBuyukSayi)
 	fmt.Printf("\ngirilen en küçük sayı = %d", girilenEnKucukSayi)

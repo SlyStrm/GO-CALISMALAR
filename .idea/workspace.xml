@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ec03270-826a-4747-a139-b59a5b183d90" name="Changes" comment="adding files">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Programlarım.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevdeneme2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler15.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler18.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler19.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler20.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler21.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler22.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler23.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler24.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odevler9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odev1.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev10.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev11.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev12.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev13.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev14.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev15.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev16.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev17.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevdeneme.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev18.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler11.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev2.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev3.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev4.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler12.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev5.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler13.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev6.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev7.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev8.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödev9.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ödevDeneme.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler16.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gl9tDAoLWNmp3N87KNUveE2kcG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sametengin&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Go Build.go build odevdeneme.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build geneltekrar10" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/geneltekrar/10.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build geneltekrar12" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/geneltekrar/12.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build geneltekrar5" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/geneltekrar/5.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build odev1" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/odev1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build odev17" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/odev17.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build odev2" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/odev2.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build odevdeneme.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/odevDeneme.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build odev1" />
+      <item itemvalue="Go Build.go build odev2" />
+      <item itemvalue="Go Build.go build odev17" />
+      <item itemvalue="Go Build.go build geneltekrar5" />
+      <item itemvalue="Go Build.go build geneltekrar10" />
+      <item itemvalue="Go Build.go build geneltekrar12" />
+      <item itemvalue="Go Build.go build odevdeneme.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build odevdeneme.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test işi yaptım" />
+    <MESSAGE value="sildim" />
+    <MESSAGE value="adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding files" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

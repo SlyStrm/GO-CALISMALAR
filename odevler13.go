@@ -1,5 +1,7 @@
 package main
 
+// Klavyeden Girilen Değerler ile 4 İşlem Yapan Program (switch case ile)
+
 import (
 	"fmt"
 )
@@ -27,14 +29,14 @@ func main() {
 	case "*":
 		fmt.Printf("%d %s %d = %d", a, operator, b, a*b)
 	case "%":
-		var sonuc float64
+		var Sonuc float64
 
-		sonuc = float64(a)/100*10 + float64(b)/100*10
+		Sonuc = float64(a)/100*10 + float64(b)/100*10
 
-		fmt.Printf("%d, %s ,%d = %f", a, operator, b, sonuc)
+		fmt.Printf("%d, %s ,%d = %f", a, operator, b, Sonuc)
 	case "/":
 		if a == 0 || b == 0 {
-			fmt.Printf("\n0 a bölüm her zaman 0 çıkar lütfen başka bir sayı girin")
+			fmt.Printf("\n0 a Bölüm Her Zaman 0 Çıkar Lütfen Başka Bir Sayı Girin")
 		} else {
 
 			var sonuc float64

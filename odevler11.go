@@ -9,11 +9,11 @@ import (
 var fact float64 = 1
 
 var i int = 1
-var sayi int
+var sayi1 int
 
 func factorial(n int) float64 {
 	if sayi < 0 {
-		fmt.Print("Factoriyel sayı negatif olmaz.")
+		fmt.Print("Factoriyel Sayı Negatif olmaz.")
 	} else {
 		for i := 1; i <= sayi; i++ {
 			fact *= float64(i)

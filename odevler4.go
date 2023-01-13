@@ -1,6 +1,6 @@
 package main
 
-// klavyeden girilen 3 notun ortalamasını alan program
+// klavyeden girilen 3 değerin(NOTUN) ortalamasını alan program
 import (
 	"fmt"
 )

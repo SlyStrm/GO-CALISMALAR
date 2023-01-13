@@ -1,5 +1,7 @@
 package main
 
+// Klavyeden Girilen değerler üzerinden Üçgenin Alanını Bulan program
+
 import "fmt"
 
 func main() {

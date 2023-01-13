@@ -1,5 +1,6 @@
 package main
 
+//
 import (
 	"fmt"
 	"strconv"
@@ -13,16 +14,13 @@ func main() {
 
 		Array = append(Array, s)
 	}
-	for _, sayi := range Array {
 
+	for _, sayi := range Array {
 		kalan := sayi % 2
 		if kalan == 0 && sayi > 9 {
 			slice := strconv.Itoa(sayi)
-			{
-				if slice[1] == 0 {
-					fmt.Println(sayi)
-				}
-
+			if slice[1] == '0' {
+				fmt.Println(sayi)
 			}
 		}
 	}

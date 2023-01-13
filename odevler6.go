@@ -13,7 +13,7 @@ func main() {
 		not3 int
 	)
 
-	fmt.Println("Lütfen notlarınızı giriniz;")
+	fmt.Println("Lütfen Notlarınızı Giriniz;")
 
 	fmt.Scan(&not1)
 
@@ -24,13 +24,13 @@ func main() {
 	notOrtalamasi := ortalamaAl(not1, not2, not3)
 
 	if notOrtalamasi < 45 {
-		fmt.Printf("\nNot ortalamanız: %d Yani çok düşük..", notOrtalamasi)
+		fmt.Printf("\nNot Ortalamanız: %d Yani çok düşük..", notOrtalamasi)
 
 	} else if notOrtalamasi > 70 && notOrtalamasi < 100 {
-		fmt.Printf("\nNot ortalamanız: %d Yani iyi..", notOrtalamasi)
+		fmt.Printf("\nNot Ortalamanız: %d Yani iyi..", notOrtalamasi)
 
 	} else if notOrtalamasi > 46 && notOrtalamasi < 69 {
-		fmt.Printf("\nNot ortalamanız: %d Yani orta..", notOrtalamasi)
+		fmt.Printf("\nNot Ortalamanız: %d Yani orta..", notOrtalamasi)
 	}
 
 }

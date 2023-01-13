@@ -1,6 +1,6 @@
 package main
 
-// 4 işlem yapan program
+//klavyeden girilen değerler ile 4 işlem yapan program
 
 import "fmt"
 
@@ -12,9 +12,9 @@ func main() {
 	var bolme int
 	var cikarma int
 
-	fmt.Println("1.sayıyı girin")
+	fmt.Println("1.Sayıyı Girin")
 	fmt.Scanln(&sayi1)
-	fmt.Println("2.sayıyı girin")
+	fmt.Println("2.Sayıyı Girin")
 	fmt.Scanln(&sayi2)
 	toplama = (sayi1) + sayi2
 	carpma = sayi1 * sayi2

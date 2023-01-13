@@ -5,9 +5,12 @@ import "fmt"
 func main() {
 	var n int
 	var toplam int
+	var i int
 
-	fmt.Printf("N sayısını Girin : ")
+	fmt.Printf("1. Sayıyı Girin : ")
 	fmt.Scanf("%d", &n)
+	fmt.Printf("2. Sayıyı Girin : ")
+	fmt.Scanf("%d", &i)
 
 	for i := 1; i <= n; i++ {
 		toplam += i
