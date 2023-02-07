@@ -4,9 +4,9 @@ import (
 	"fmt"
 )
 
-const CikolataFiyata = 10
-const CipsFiyata = 5
-const KolaFiyata = 3
+const CikolataFiyat = 10
+const CipsFiyat = 5
+const KolaFiyat = 3
 
 func main() {
 
@@ -66,19 +66,19 @@ func main() {
 		if hangiUrun == "cikolata" {
 
 			if girilenAdet < 3 {
-				toplam += CikolataFiyata * Adet
+				toplam += CikolataFiyat * Adet
 			} else {
-				toplam += CikolataFiyata*Adet - ((CikolataFiyata*Adet)*10)/100
+				toplam += CikolataFiyat*Adet - ((CikolataFiyat*Adet)*10)/100
 			}
 
 		}
 
 		if hangiUrun == "kola" {
-			toplam += KolaFiyata * Adet
+			toplam += KolaFiyat * Adet
 		}
 
 		if hangiUrun == "cips" {
-			toplam += CipsFiyata * Adet
+			toplam += CipsFiyat * Adet
 		}
 
 	}

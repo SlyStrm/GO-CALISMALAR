@@ -4,48 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec03270-826a-4747-a139-b59a5b183d90" name="Changes" comment="adding files">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Programlarım.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevdeneme2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler10.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler15.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler17.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler18.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler19.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler20.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler21.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler22.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler23.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler24.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler7.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler8.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/odevler9.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/odev1.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler6.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev10.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev11.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev12.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev13.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev14.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev15.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev16.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev17.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevdeneme.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev18.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler11.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev4.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler12.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev5.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler13.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev6.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev7.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev8.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödev9.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ödevDeneme.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler16.go" afterDir="false" />
+    <list default="true" id="3ec03270-826a-4747-a139-b59a5b183d90" name="Changes" comment="readme güncellendi">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odevler23.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler23.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odevler8.go" beforeDir="false" afterPath="$PROJECT_DIR$/odevler8.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +48,10 @@
     &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/sametengin&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/sametengin/GolandProjects/program1&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go Build.go build odevdeneme.go">
+  <component name="RunManager" selected="Go Build.go build odev27.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="Programlarım" />
       <working_directory value="$PROJECT_DIR$" />
@@ -152,13 +115,22 @@
       <filePath value="$PROJECT_DIR$/odev2.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build odev27.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Programlarım" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="program1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/odev27.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build odevdeneme.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="Programlarım" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <package value="program1" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/odevDeneme.go" />
+      <filePath value="$PROJECT_DIR$/deneme.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -178,10 +150,12 @@
       <item itemvalue="Go Build.go build geneltekrar5" />
       <item itemvalue="Go Build.go build geneltekrar10" />
       <item itemvalue="Go Build.go build geneltekrar12" />
+      <item itemvalue="Go Build.go build odev27.go" />
       <item itemvalue="Go Build.go build odevdeneme.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build odev27.go" />
         <item itemvalue="Go Build.go build odevdeneme.go" />
       </list>
     </recent_temporary>
@@ -205,9 +179,31 @@
     <MESSAGE value="test işi yaptım" />
     <MESSAGE value="sildim" />
     <MESSAGE value="adding files" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding files" />
+    <MESSAGE value="readme güncellendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme güncellendi" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/deneme.go</url>
+          <line>102</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/deneme.go</url>
+          <line>95</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/deneme.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -4,6 +4,7 @@ package main
 
 import (
 	"fmt"
+	"os"
 )
 
 func main() {
@@ -20,6 +21,10 @@ func main() {
 	fmt.Println("3.Sayıyı Girin")
 	fmt.Scanf("%d", &c)
 
+	if c == 2 {
+		dosyayaYaz("banka.txt", "cipse kampanya uygulandı\n")
+	}
+
 	if (a > b) && (a > c) {
 		fmt.Printf("%d,En Büyük Sayi", a)
 	}
@@ -32,4 +37,16 @@ func main() {
 
 	}
 
+}
+func dosyayaYaz(dosyaIsmi string, yazi string) {
+	f, err := os.OpenFile(dosyaIsmi, os.O_APPEND|os.O_WRONLY|os.O_CREATE, 0600)
+	if err != nil {
+		panic(err)
+	}
+
+	defer f.Close()
+
+	if _, err = f.WriteString(yazi); err != nil {
+		panic(err)
+	}
 }
